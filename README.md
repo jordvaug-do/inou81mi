@@ -120,7 +120,7 @@ We will go over the details in the next step.
   TBD-step-2-notes.
 -->
 
-<details id=2 open>
+<details id=2>
 <summary><h2>Step 2: Fine-grained permissions - pull requests</h2></summary>
 
 _You successfully authenticated and retrieved a Vault secret using GitHub OIDC! :tada:_
@@ -360,7 +360,7 @@ Once the workflow is green, feel free to merge the PR or leave it as-is before m
   TBD-step-3-notes.
 -->
 
-<details id=3>
+<details id=3 open>
 <summary><h2>Step 3: Fine-grained permissions - branches</h2></summary>
 
 _Nice work finishing Step 2: Fine-grained permissions - pull requests :sparkles:_
