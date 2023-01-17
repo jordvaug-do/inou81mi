@@ -360,7 +360,7 @@ Once the workflow is green, feel free to merge the PR or leave it as-is before m
   TBD-step-3-notes.
 -->
 
-<details id=3 open>
+<details id=3>
 <summary><h2>Step 3: Fine-grained permissions - branches</h2></summary>
 
 _Nice work finishing Step 2: Fine-grained permissions - pull requests :sparkles:_
@@ -562,7 +562,7 @@ It should end with `:ref:refs/heads/main`.
   TBD-step-4-notes.
 -->
 
-<details id=4>
+<details id=4 open>
 <summary><h2>Step 4: Fine-grained permissions - environments</h2></summary>
 
 _Nicely done with Step 3: Fine-grained permissions - branches! :partying_face:_
