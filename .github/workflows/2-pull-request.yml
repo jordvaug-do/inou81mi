@@ -68,7 +68,7 @@ jobs:
             "role_type": "jwt",
             "user_claim": "actor",
             "bound_claims": {
-              "sub": "repo:jvaughn-do/inou81mi:pull_request"
+              "sub": "repo:jordvaug-do/inou81mi:pull_request"
             },
             "policies": ["pr-policy"],
             "ttl": "60s"
